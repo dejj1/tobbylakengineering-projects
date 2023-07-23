@@ -139,7 +139,7 @@ nav a:hover::after{
     width: 100%;
 }
 .navbar_border{
-    border-left: 2px solid rgba(36, 33, 33, 0.823);
+    border-left: 2px solid rgb(208, 204, 204);
     
 }
 
